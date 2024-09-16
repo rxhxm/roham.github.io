@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "IMG_2961.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Roham Mehrabi"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Senior Data Science Student at UCSD"
   location         : "San Diego"
   employer         : "University of California, San Diego"
   uri              : # URL
