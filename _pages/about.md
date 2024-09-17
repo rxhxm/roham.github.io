@@ -16,10 +16,10 @@ Research Interests
 My research interests include multimodal learning, vision-language models, and adversarial attacks in deep learning. I focus on applying self-supervised learning techniques to improve speech models, adversarial robustness, and the development of scalable systems for AI applications.
 
 
-Selected Research Projects
+Research Projects
 ======
-- Neural Codec Resynthesis: Collaborated with MIT’s CSAIL on improving audio resynthesis quality by tuning Transformer model hyperparameters. Achieved a 15% boost in quality using Residual Vector Quantization.
+[A Closer Look at Neural Codec Resynthesis: Bridging the Gap between Codec and Waveform Generation](https://openreview.net/pdf?id=uJfDaEpTKN)
 
 Articles
-------
+======
 [What are Vision-Language Models (VLMs)? The AI That's Learning to See and Speak](https://medium.com/@roham.meh/what-are-vision-language-models-vlms-the-ai-thats-learning-to-see-and-speak-f4169f148136)
