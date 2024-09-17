@@ -23,3 +23,8 @@ Research Projects
 Articles
 ======
 [What are Vision-Language Models (VLMs)? The AI That's Learning to See and Speak](https://medium.com/@roham.meh/what-are-vision-language-models-vlms-the-ai-thats-learning-to-see-and-speak-f4169f148136)
+
+Side Projects
+======
+[Forseeing The Dark: Machine Learning for Power Outage Detection](https://rxhxm.github.io/Machine-Learning-for-Early-Power-Outage-Detection/)
+
