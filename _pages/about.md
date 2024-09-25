@@ -9,6 +9,8 @@ redirect_from:
 
 Bio
 ======
+Yo
+
 I am a senior undergraduate student at the University of California, San Diego, majoring in Data Science with a focus on Artificial Intelligence and Machine Learning. My work bridges the areas of adversarial machine learning, speech recognition, and more recently vision-language models in multimodal learning. 🤖
 
 I have collaborated with MIT’s Computer Science and Artificial Intelligence Lab (CSAIL) and UC San Diego’s Adaptive Computing and Embedded Systems (ACES) Lab on various research projects in these fields. I am passionate about applying research to enhance real-world applications, and I constantly seek new ways to leverage data science to drive innovation. 💡
