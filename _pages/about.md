@@ -17,12 +17,9 @@ In addition to my academic pursuits, I have a strong entrepreneurial background,
 
 Additionally, I founded RAZI, an organization that provides data-driven marketing strategies to startups and small businesses. I led a team of 47 students from universities such as UC Berkeley, UCLA, and UCI, and worked on marketing campaigns for startups valued at $3-7 million. Through RAZI, I also organized 36 workshops and hosted 7 prominent speakers in the entrepreneurial space. 🎯
 
-
-
 Research Interests
 ======
 "My research interests encompass multimodal learning, adversarial robustness, and recommendation systems. My goal is to develop scalable, robust AI applications that integrate language, vision, and reinforcement learning to address challenges in robotics, healthcare, and recommendation systems."
-
 
 Research Projects
 ======
@@ -35,4 +32,3 @@ Articles
 Side Projects
 ======
 [Forseeing The Dark: Machine Learning for Power Outage Detection](https://rxhxm.github.io/Machine-Learning-for-Early-Power-Outage-Detection/)
-
